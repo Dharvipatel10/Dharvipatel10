@@ -5,10 +5,10 @@ I am Dharvi Patel, a passionate software developer currently pursuing a Masterâ€
 ## ğŸŒ Socials:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dharvi-patel10" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/dharvi-patel10" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://github.com/Dharvipatel10" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/Dharvipatel10" target="blank">
+    <img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" height="40" width="40" />
   </a>
 </p>
