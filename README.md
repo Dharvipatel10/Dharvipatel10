@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👩🏻‍🎓 ABOUT ME
 
 <!--
 **Dharvipatel10/Dharvipatel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
