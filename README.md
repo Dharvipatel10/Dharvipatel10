@@ -4,8 +4,8 @@ I am Dharvi Patel, a passionate software developer currently pursuing a Master�
 
 ## 🌐 SOCIAL:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharvi-patel10)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Dharvipatel10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharvi-patel10)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharvipatel10)
 
 ## 🖥️ TECH STACK
 
