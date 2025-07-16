@@ -31,4 +31,9 @@ I am Dharvi Patel, a passionate software developer currently pursuing a Masterâ€
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+## GitHub Stats
+
+## ðŸ“ˆ GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharvipatel10&show_icons=true&theme=radical)
 
