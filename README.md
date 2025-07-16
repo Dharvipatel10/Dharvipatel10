@@ -4,6 +4,5 @@ I am Dharvi Patel, a passionate software developer currently pursuing a Master‚Ä
 
 ## üåê Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dharvi-patel10)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Dharvipatel10)  
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:dharvipatel1610@gmail.com)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)(https://www.linkedin.com/in/dharvi-patel10)  
+[GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)(https://github.com/Dharvipatel10)
