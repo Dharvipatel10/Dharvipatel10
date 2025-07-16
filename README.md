@@ -9,4 +9,4 @@ I am Dharvi Patel, a passionate software developer currently pursuing a Master�
 
 ## 🖥️ Tech Stack
 
-CCSS3 HTML5 JavaScript PHP Python Heroku Bootstrap Express.js jQuery JWT Laravel NodeJS React Redux Socket.io MySQL Postgres MongoDB Postman
+
