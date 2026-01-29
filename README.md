@@ -35,6 +35,6 @@ I am Dharvi Patel, a passionate software developer currently pursuing a Masterâ€
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharvipatel10&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharvipatel10&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dharvipatel10)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharvipatel10&layout=compact&theme=tokyonight&hide_border=false)
