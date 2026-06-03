@@ -1,5 +1,3 @@
-## 👩🏻‍🎓 ABOUT ME
-
 # Hi there, I'm Dharvi Patel 👋
 
 I am a passionate **Software & Web Developer** and a recent graduate with a **Master’s degree in Automotive Software Engineering** from Chemnitz University of Technology, Germany. I specialize in building responsive full-stack web applications and developing AI-driven solutions for autonomous systems.
@@ -20,13 +18,13 @@ I am a passionate **Software & Web Developer** and a recent graduate with a **Ma
 - **Movie Rating SPA:** Created a seamless Single Page Application using **C#** and **.NET 8 Core**.
 
 💼 **I am actively seeking Full-Time or Part-Time opportunities in Software Engineering, Web Development or Full-Stack developer.**
+- https://dharvipatel.vercel.app/
 
 
 ## 🌐 SOCIAL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharvi-patel10)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharvipatel10)
-https://dharvipatel.vercel.app/
 
 ## 🖥️ TECH STACK
 
