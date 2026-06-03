@@ -19,18 +19,14 @@ I am a passionate **Software & Web Developer** and a recent graduate with a **Ma
 - **Job Portal Web App:** Built a full-stack platform featuring resume upload and authentication using **React.js**, **Laravel**, and **PostgreSQL**.
 - **Movie Rating SPA:** Created a seamless Single Page Application using **C#** and **.NET 8 Core**.
 
----
-
-💼 **I am actively seeking Full-Time or Part-Time opportunities in Software Engineering, Web Development, or Automotive Software.**
-
-## My Portfolio
-https://dharvipatel.vercel.app/
+💼 **I am actively seeking Full-Time or Part-Time opportunities in Software Engineering, Web Development or Full-Stack developer.**
 
 
 ## 🌐 SOCIAL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharvi-patel10)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharvipatel10)
+https://dharvipatel.vercel.app/
 
 ## 🖥️ TECH STACK
 
