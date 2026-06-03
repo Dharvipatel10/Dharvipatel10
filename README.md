@@ -1,6 +1,27 @@
 ## 👩🏻‍🎓 ABOUT ME
 
-I am Dharvi Patel, a passionate software developer/Web developer currently pursuing a Master’s degree in Automotive Software Engineering at Chemnitz University of Technology, Germany. I have hands-on experience in full-stack web development, embedded systems, and Computer Vision technology, gained through both academic research and industry internships. I am proficient in languages such as JavaScript, Typescript, React.js, Angular, HTML5, CSS3, Python, PHP, and C#, and have worked with databases like MongoDB, MySQL, and PostgreSQL, GitHub. My development experience includes building dynamic and responsive user interfaces, implementing backend systems using RESTful APIs, and integrating databases for seamless data management. My projects include a job portal web app with resume upload and user authentication with PHP, PostgreSQL, Laravel Framework and React.js and, a movie rating website SPA with C# and .Net 8 core, and many more projects on my Github. Master thesis named CARLA-based simulation model for detecting autonomous traffic behavior using AI, OpenCV, PyTorch, Ultalyrics, NumPy, Object detection algorithm YOLOv8 and Tajectory analyasis algorithm LSTM. I have also worked on real-time systems and UI development in the automotive domain. I’m enthusiastic about exploring new technologies, learning continuously, and contributing to impactful software solutions. I enjoy collaborating in diverse teams and take pride in writing clean, efficient, and maintainable code.
+# Hi there, I'm Dharvi Patel 👋
+
+I am a passionate **Software & Web Developer** and a recent graduate with a **Master’s degree in Automotive Software Engineering** from Chemnitz University of Technology, Germany. I specialize in building responsive full-stack web applications and developing AI-driven solutions for autonomous systems.
+
+### 🚀 What I Do
+- 💻 **Full-Stack Web Development:** Crafting dynamic, scalable, and responsive user interfaces and robust RESTful APIs.
+- 🚗 **Automotive Software & AI:** Integrating Computer Vision, object detection, and simulation models for autonomous traffic behavior.
+- 🛠️ **Clean Code:** Committed to writing efficient, maintainable, and well-documented code within collaborative agile teams.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, TypeScript, Python, C#, PHP, HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Angular, Laravel, .NET 8 Core, OpenCV, PyTorch, NumPy
+- **Databases & Tools:** PostgreSQL, MySQL, MongoDB, GitHub, RESTful APIs
+
+### 🎓 Highlighted Projects
+- **Master's Thesis:** Developed a CARLA-based simulation model using **YOLOv8** and **LSTM** algorithms to detect and analyze autonomous traffic trajectories.
+- **Job Portal Web App:** Built a full-stack platform featuring resume upload and authentication using **React.js**, **Laravel**, and **PostgreSQL**.
+- **Movie Rating SPA:** Created a seamless Single Page Application using **C#** and **.NET 8 Core**.
+
+---
+
+💼 **I am actively seeking Full-Time or Part-Time opportunities in Software Engineering, Web Development, or Automotive Software.**
 
 ## My Portfolio
 https://dharvipatel.vercel.app/
